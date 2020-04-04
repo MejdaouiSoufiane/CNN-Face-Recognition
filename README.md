@@ -15,3 +15,6 @@ You need also to prepare your environment by downloading those python tools (I'm
 * PIL (Python Imaging Library)
 * pickle (For object serialization)
 * tkinter (To run the user Interface)
+
+## Run
+Run the init.py first to save the values of your images, then run the main.py file.
